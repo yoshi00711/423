@@ -31,7 +31,7 @@ List of volunteers (The instructor has received as confirmed by documents).
 
 | Lect# | Date | Description  |Slide| Assignment Due Date |
 |:-----:|------|-------------|----|---------------------|
-|  1 |Thu 10 June 2019| Orientation and Intro to computer network| [[course description]](https://drive.google.com/file/d/1P_F9QmOwFX6FlnDPF-qrr2rO22kUy5kl/view?usp=sharing), 1-Introduction.pdf | HW\#1 Mon 17 June 2019 |
+|  1 |Thu 10 June 2019| Orientation and Intro to computer network| [[course description]](https://drive.google.com/file/d/1P_F9QmOwFX6FlnDPF-qrr2rO22kUy5kl/view?usp=sharing), 1-Introduction.pdf <br> **Supplement** : <br> * [AN EARLY HISTORY OF THE INTERNET](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5534584)| HW\#1 Mon 17 June 2019 |
 | 8 | 5-11 Aug 2019 | ***Midterm Exam*** || Close book |
 | 16 | 17 Sep 2019 | Project Presentation || |
 | 17 | 23-30 Sep 2019 | ***Final Exam***  || Close book |
