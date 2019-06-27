@@ -26,7 +26,7 @@
 
 | Lect# | Date | Description  |Slide| Assignment Due Date |
 |:-----:|------|-------------|----|---------------------|
-|  1 |Thu 10 June 2019| Orientation and Intro to computer network| [[course description]](https://drive.google.com/open?id=1P_F9QmOwFX6FlnDPF-qrr2rO22kUy5kl), 1-Introduction.pdf <br> **Supplement** : <br> * [AN EARLY HISTORY OF THE INTERNET](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5534584)| HW\#1 Mon 17 June 2019 |
+|  1 |Wed 26 June 2019| Orientation and Intro to computer network| [[course description]](https://drive.google.com/open?id=1P_F9QmOwFX6FlnDPF-qrr2rO22kUy5kl), [1-Introduction.pdf](https://drive.google.com/file/d/1Wph5Bx8Q-Ta5Ry6rMk6tfSnGQf5L5183/view?usp=sharing) <br> **Supplement** : <br> * [AN EARLY HISTORY OF THE INTERNET](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5534584)|  |
 | 8 | 5-11 Aug 2019 | ***Midterm Exam*** || Close book |
 | 16 | 17 Sep 2019 | Project Presentation || |
 | 17 | 23-30 Sep 2019 | ***Final Exam***  || Close book |
